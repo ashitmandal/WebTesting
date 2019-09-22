@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LETSCODEIT.iml" filepath="$PROJECT_DIR$/.idea/LETSCODEIT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Py_Selenium/.idea/Py_Selenium.iml" filepath="$PROJECT_DIR$/../Py_Selenium/.idea/Py_Selenium.iml" />
     </modules>
   </component>
 </project>
